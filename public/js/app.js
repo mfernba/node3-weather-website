@@ -1,5 +1,3 @@
-console.log( 'Client loader' );
-
 const weatherForm = document.getElementById('searchForm');
 const messagePlaceHolder1 = document.getElementById('messagePlaceHolder1');
 const messagePlaceHolder2 = document.getElementById('messagePlaceHolder2');
